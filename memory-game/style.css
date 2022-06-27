@@ -1,0 +1,7 @@
+#grid{
+     width: 400px;
+     height: 300px;
+     display: flex;
+}
+
+/* the objects just wont become a box*/
