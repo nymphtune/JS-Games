@@ -1,7 +1,7 @@
 #grid{
-     width: 400px;
-     height: 300px;
+     width: 69px;
+     height: 69px;
      display: flex;
 }
 
-/* the objects just wont become a box*/
+/* ISSUE: would like the images to be in a 4x3 grid*/
